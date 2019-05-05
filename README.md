@@ -31,3 +31,6 @@ only using the following instructions :
     rotate l_b toward the end, the last element will become the first.
 • rrr
     rra and rrb at the same time.
+    
+    
+ Only using the following functions : write, malloc, free
